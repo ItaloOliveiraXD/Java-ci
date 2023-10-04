@@ -2,7 +2,7 @@ name: build
 on: [push]
 
 jobs:
-  check-applicarion:
+  check-application:
     name: Build and Run Tests
     runs-on: ubuntu-latest
     steps:
